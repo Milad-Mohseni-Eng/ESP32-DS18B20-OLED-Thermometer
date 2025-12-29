@@ -65,9 +65,7 @@ A short demonstration video showing real-time temperature measurement:
 ---
 
 ## Circuit Diagram
-The full circuit schematic is available below:
-
-![Circuit Diagram](diagrams/circuit_diagram.png)
+The full circuit schematic is available.
 
 ---
 
